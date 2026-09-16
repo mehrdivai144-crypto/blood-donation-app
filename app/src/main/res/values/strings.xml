@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">রক্তদান</string>
+    <string name="app_name">Blood Donation App</string>
+    <string name="donor_list">রক্তদাতা তালিকা</string>
+    <string name="emergency_requests">জরুরি চাহিদা</string>
+    <string name="blood_compatibility">রক্ত সামঞ্জস্য</string>
 </resources>
