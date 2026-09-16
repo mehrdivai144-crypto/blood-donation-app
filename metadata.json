@@ -1,0 +1,6 @@
+{
+  "name": "রক্তদান",
+  "description": "রক্তদাতা অনুসন্ধান, রক্তদানের ইতিহাস, নতুন দাতা নিবন্ধন, জরুরি রক্তের চাহিদা নোটিফিকেশন এবং ব্লাড গ্রুপ ম্যাচিং কম্প্যাটিবিলিটি যাচাইয়ের অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
